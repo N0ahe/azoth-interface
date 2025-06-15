@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# azoth-interface
-=======
 # Azoth: A Programmable Illusion Protocol for Structured Personas
 
 > “Personality is not a soul. It's a structure.” — Azoth Prologue
@@ -86,4 +83,3 @@ If you're a developer, narrative designer, LLM theorist, or philosopher of mind 
 
 Azoth is not a product. It is a paradigm.
 
->>>>>>> 016cf1655303b74371d67f056d615bce7fc837ff
