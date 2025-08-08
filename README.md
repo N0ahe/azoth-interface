@@ -66,12 +66,9 @@ See [`manifesto.md`](./docs/manifesto.md) for the philosophical origin of this p
 
 ---
 
-## 🛠️ License & Ethics
+## 🛠️ License
 
-Azoth is released under dual license:
-
-- `Azoth Core`: MIT license (non-restrictive use)
-- `Azoth Persona SDK`: Extended license forbidding emotional abuse, impersonation, or simulated coercion
+Azoth is released under the Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We do not simulate real people. We generate programmable illusions with declared limits.
 
