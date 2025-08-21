@@ -118,6 +118,39 @@ Input → Perception → Appraisal → Working Memory Update
 
 ---
 
+## 📊 Technical Architecture Concepts
+
+### Core Data Structures
+
+| Component | Concept | Purpose |
+|-----------|---------|---------|
+| **Soul** | Unified cognitive state container | Central nervous system of the architecture |
+| **Nomos** | Personality atoms | Beliefs, values, rules as discrete units |
+| **VAD Space** | 3D emotion coordinates | [Valence, Arousal, Dominance] continuous dynamics |
+| **Facet** | Multi-agent personalities | Independent reasoning perspectives |
+
+### Processing Pipeline
+
+```
+Input → InterpLayer → AppraisalEngine → EmotionUpdate → WorkingMemory 
+  ↓         ↓             ↓              ↓            ↓
+Context   Evaluation   VAD Push      Attention    Intent Formation
+  ↓         ↓             ↓              ↓            ↓
+FacetActivation → ParallelReasoning → RouterCoordination → LanguageGeneration
+       ↓              ↓                    ↓                ↓
+   Personality    Multi-perspective     Conflict          Semantic +
+   Filtering      Processing           Resolution         Syntactic
+```
+
+### Key Technical Innovations
+
+- **Shared Cognitive State**: All modules operate on unified `Soul` structure
+- **VAD Emotion Dynamics**: Continuous 3D emotional space with prototype attractors  
+- **Multi-Theory Fusion**: GWT + Dual Process + Multiple Drafts integration
+- **Explainable Decision Chain**: Every output traces to beliefs → emotions → reasoning
+
+---
+
 ## 📦 Implementation Status
 
 **Current Stage: Theoretical Design & Early Development**
